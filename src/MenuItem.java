@@ -24,6 +24,7 @@ public class MenuItem {
     }
     public boolean isAvailable(){
         return available;
+
     }
     public void setPrice(double price) {
         this.price = price;
